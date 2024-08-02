@@ -32,6 +32,7 @@ A self-taught developer on a journey towards a career in software engineering. M
 ## Contact Me 
 <ul>
   <li><a href="mailto:lijohnny21@gmail.com">Gmail</a></li>
+  <li><a href="https://x.com/Johnnyli31">Twitter / X</a></li>
 </ul>
 
 Looking forward to connecting with you!
