@@ -7,9 +7,9 @@ A self-taught developer on a journey towards a career in software engineering. M
 
 ## Skills : 
 <ul>
-  <li>Language : Javascript, Typescript</li>
+  <li>Language : Javascript, Typescript, NodeJS</li>
   <li>Technologies : HTML/CSS, Tailwind</li>
-  <li>Frameworks :  React, Nextjs, NodeJS</li>
+  <li>Frameworks :  React, Nextjs</li>
   <li>Database :  PostgreSQL, MongoDB</li>
 </ul>
 
