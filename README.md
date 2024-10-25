@@ -27,6 +27,10 @@ A self-taught developer on a journey towards a career in software engineering. M
     <a href="https://swiftshop-alpha.vercel.app/" target="_blank">Fake Store Inventory Mangement :</a>
     An inventory management app with full CRUD functionality and a responsive design for all devices, developed using Next.js(Frontend) and Node.js(Backend)
   </li>
+  <li>
+    <a href="https://swiftshop-alpha.vercel.app/" target="_blank">Anime Horizon :</a>
+    A platform where users can explore and discover new animes, with the option to save their favorites for future viewing
+  </li>
 </ul>
 
 ## Contact Me 
