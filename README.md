@@ -8,8 +8,8 @@ My coding journey started as an exploration, beginning with HTML and CSS. The ma
 ## Skills : 
 <ul>
   <li>Language : Javascript, Typescript, NodeJS</li>
-  <li>Technologies : HTML/CSS, Tailwind</li>
-  <li>Frameworks :  React, Nextjs</li>
+  <li>Technologies : HTML/CSS, Tailwind CSS</li>
+  <li>Frameworks :  Reactjs, Nextjs</li>
   <li>Database :  PostgreSQL, MongoDB</li>
 </ul>
 
