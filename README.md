@@ -36,7 +36,7 @@ Front-End Software Engineer with experience in JavaScript, TypeScript, and frame
 ## Contact Me 
 <ul>
   <li><a href="mailto:lijohnny21@gmail.com">Gmail</a></li>
-  <li><a href="https://x.com/Johnnyli31">Twitter / X</a></li>
+  <li><a href="https://x.com/jojotech31">Twitter / X</a></li>
 </ul>
 
 Looking forward to connecting with you!
