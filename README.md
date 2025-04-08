@@ -20,7 +20,7 @@ Front-End Software Engineer with experience in JavaScript, TypeScript, and frame
    A platform where users can explore a variety of desserts with stunning, interactive animations that enhance the browsing experience
   </li>
   <li>
-    <a href="https://swiftshop-alpha.vercel.app/" target="_blank">SwiftShop :</a>
+    <a href="https://ascend-mu.vercel.app/" target="_blank">Ascend :</a>
     An eCommerce project featuring full cart functionality and responsive design for all devices, developed using Next.js
   </li>
   <li>
