@@ -3,7 +3,7 @@ Hi there 👋, I'm Johnnny Li
 <a href="https://www.codingjohnny.com" target="_blank">Portfolio</a>
 
 ## About
-Front-End Software Engineer with experience in JavaScript, TypeScript, and frameworks like React, Next.js, and Vue.js. Skilled in building user-friendly, responsive web applications with stunning animations using Framer Motion and GSAP. Always striving to improve my skills and stay up to date with the latest technologies to create better user experiences. Eager to bring your vision and designs to life!
+Software Engineer with experience in JavaScript, TypeScript, and frameworks like React, Next.js, and Vue.js. Skilled in building user-friendly, responsive web applications with stunning animations using Framer Motion and GSAP. Always striving to improve my skills and stay up to date with the latest technologies to create better user experiences. Eager to bring your vision and designs to life!
 
 ## Skills : 
 <ul>
