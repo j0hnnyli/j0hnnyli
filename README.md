@@ -1,6 +1,4 @@
 ## Hi there 👋, I'm Johnnny Li
-<br/>
-<br/>
 
 <a href="https://www.codingjohnny.com" target="_blank">
   ![Image](https://github.com/user-attachments/assets/7ccaa548-4226-454e-ad17-de5252722efb)
