@@ -1,4 +1,4 @@
-Hi there 👋, I'm Johnnny Li
+# Hi there 👋, I'm Johnnny Li
 
 <a href="https://www.codingjohnny.com" target="_blank">
   <img src="https://github.com/user-attachments/assets/7ccaa548-4226-454e-ad17-de5252722efb" alt="Portfolio preview" width="600"/>
