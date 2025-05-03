@@ -8,12 +8,7 @@
 Front-End Developer with experience in JavaScript, TypeScript, and frameworks like React, Next.js, and Vue.js. Skilled in building user-friendly, responsive web applications with stunning animations using Framer Motion and GSAP. Always striving to improve my skills and stay up to date with the latest technologies to create better user experiences. Eager to bring your vision and designs to life!
 
 ## Skills : 
-<ul>
-  <li>Languages : Javascript, Typescript, NodeJS</li>
-  <li>Technologies : HTML/CSS, Tailwind CSS, GSAP, Framer-Motion</li>
-  <li>Frameworks :  Reactjs, Nextjs, Vuejs, Nuxtjs</li>
-  <li>Tools : Git, Jira</li>
-</ul>
+Javascript, Typescript, Reactjs, Nextjs, Vuejs, Tailwind CSS, GSAP, Framer-Motion, Git, GitHub, Jira
 
 ## Key Projects : 
 <ul>
@@ -38,6 +33,7 @@ Front-End Developer with experience in JavaScript, TypeScript, and frameworks li
 ## Contact Me 
 <ul>
   <li><a href="mailto:lijohnny21@gmail.com">Gmail</a></li>
+  <li><a href="https://www.linkedin.com/in/johnny-li-3a0482331">Linkedin</a></li>
   <li><a href="https://x.com/jojotech31">Twitter / X</a></li>
 </ul>
 
