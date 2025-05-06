@@ -4,7 +4,7 @@
 
 ## Portfolio
 <a href="https://www.codingjohnny.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/df42b5f1-19dc-4723-b303-6ea98dede53c" alt="Portfolio preview"/>
+  <img src="https://github.com/user-attachments/assets/df42b5f1-19dc-4723-b303-6ea98dede53c" alt="Portfolio preview" width="600"/>
 </a>
 
 ## About
