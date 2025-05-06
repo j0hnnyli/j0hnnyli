@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Johnnny Li
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdndThxazZyZWluaTIwbWlsMXp3MWJ0a2lpdjE0N3RvZmd5cmUycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcyNjUydHRueXYzNHlzcno5cnhneHZobTh1YXVmYzFlc25iN2M4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+<p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdndThxazZyZWluaTIwbWlsMXp3MWJ0a2lpdjE0N3RvZmd5cmUycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcyNjUydHRueXYzNHlzcno5cnhneHZobTh1YXVmYzFlc25iN2M4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </p>
 
 ## Portfolio
 <a href="https://www.codingjohnny.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/df42b5f1-19dc-4723-b303-6ea98dede53c" alt="Portfolio preview" width="600"/>
+  <img src="https://github.com/user-attachments/assets/df42b5f1-19dc-4723-b303-6ea98dede53c" alt="Portfolio preview" width="400"/>
 </a>
 
 ## About
