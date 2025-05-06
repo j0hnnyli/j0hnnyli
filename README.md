@@ -4,13 +4,18 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcyNjUydHRueXYzNHlzcno5cnhneHZobTh1YXVmYzFlc25iN2M4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </p>
 
-## Portfolio
+## 🌐 Portfolio
+Take a look at some of my recent work at [codingjohnny.com](https://www.codingjohnny.com)
+
 <a href="https://www.codingjohnny.com" target="_blank">
   <img src="https://github.com/user-attachments/assets/df42b5f1-19dc-4723-b303-6ea98dede53c" alt="Portfolio preview" width="400"/>
 </a>
 
-## About
-Front-End Developer with experience in JavaScript, TypeScript, and frameworks like React, Next.js, and Vue.js. Skilled in building user-friendly, responsive web applications with stunning animations using Framer Motion and GSAP. Always striving to improve my skills and stay up to date with the latest technologies to create better user experiences. Eager to bring your vision and designs to life!
+## About Me
+I'm a Front-End Developer focused on crafting clean, responsive, and user-friendly web experiences. I'm skilled in JavaScript, TypeScript, and frameworks like React, Next.js, and Vue.js. I'm passionate about building smooth, interactive UIs with animation tools like GSAP and Framer Motion.
+
+I enjoy learning, collaborating, and continuously improving to stay current with the latest web technologies. I'm excited to bring designs to life and help build digital products that users love.
+
 
 ## Skills : 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -25,21 +30,16 @@ Front-End Developer with experience in JavaScript, TypeScript, and frameworks li
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-## Key Projects : 
-<ul>
-  <li>
-    <a href="https://ascend-mu.vercel.app/" target="_blank">Ascend :</a>
-    E-commerce webapplication with full cart functionality. Users can browse products and manage items with accurate size and quantity tracking
-  </li>
-  <li>
-    <a href="https://recipe-chi-lilac.vercel.app/" target="_blank">RecipeHub :</a>
-    A fully responsive platform for exploring global recipes. Users can create accounts to save favorites to a personal, cross-device recipe list accessible anytime.
-  </li>
-  <li>
-    <a href="https://j0hnnyli.github.io/ball-havoc/" target="_blank">Ball Havoc :</a>
-    Fun and addictive game built with HTML, CSS, Canvas, and JavaScript
-  </li>
-</ul>
+## 🔨 Key Projects
+
+- **[Ascend](https://ascend-mu.vercel.app/):**  
+  E-commerce web app with full cart functionality, built using Next.js, Tailwind CSS, and Shopify.
+
+- **[RecipeHub](https://recipe-chi-lilac.vercel.app/):**  
+  Responsive platform for discovering global recipes. Built with React, TypeScript, and Firebase authentication.
+
+- **[Ball Havoc](https://j0hnnyli.github.io/ball-havoc/):**  
+  Simple but addictive game created with HTML, CSS, Canvas, and vanilla JavaScript.
 
 ## Contact Me 
 <ul>
