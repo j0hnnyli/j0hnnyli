@@ -1,10 +1,13 @@
 # Hi there 👋, I'm Johnnny Li
-
-![Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcyNjUydHRueXYzNHlzcno5cnhneHZobTh1YXVmYzFlc25iN2M4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
-
+<!--
 <a href="https://www.codingjohnny.com" target="_blank">
   <img src="https://github.com/user-attachments/assets/7ccaa548-4226-454e-ad17-de5252722efb" alt="Portfolio preview" width="600"/>
 </a>
+-->
+
+![Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcyNjUydHRueXYzNHlzcno5cnhneHZobTh1YXVmYzFlc25iN2M4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Developer](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdndThxazZyZWluaTIwbWlsMXp3MWJ0a2lpdjE0N3RvZmd5cmUycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ## About
 Front-End Developer with experience in JavaScript, TypeScript, and frameworks like React, Next.js, and Vue.js. Skilled in building user-friendly, responsive web applications with stunning animations using Framer Motion and GSAP. Always striving to improve my skills and stay up to date with the latest technologies to create better user experiences. Eager to bring your vision and designs to life!
