@@ -5,7 +5,7 @@
 </p>
 
 ## 🌐 Portfolio
-Take a look at some of my recent work at [codingjohnny.com](https://www.codingjohnny.com)
+Take a look at some of my projects! click 👇
 
 <a href="https://www.codingjohnny.com" target="_blank">
   <img src="https://github.com/user-attachments/assets/df42b5f1-19dc-4723-b303-6ea98dede53c" alt="Portfolio preview" width="400"/>
