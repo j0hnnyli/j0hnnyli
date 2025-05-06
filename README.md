@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Johnnny Li
 
-![Developer](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcyNjUydHRueXYzNHlzcno5cnhneHZobTh1YXVmYzFlc25iN2M4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <a href="https://www.codingjohnny.com" target="_blank">
   <img src="https://github.com/user-attachments/assets/7ccaa548-4226-454e-ad17-de5252722efb" alt="Portfolio preview" width="600"/>
